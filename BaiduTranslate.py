@@ -1,9 +1,15 @@
-'''Baidu Translation'''
-
+# -*- coding: utf-8 -*-
+"""
+Program: Baidu Translation
+Author: MrCrawL
+Created Date: 2024-01-21
+Last Modified: 2024-03-24
+Modified by: MrCrawL
+"""
 '''
 This program cannot be run directly.
-Some code is replaced by '***'.
-One of reasons is to be train yourself.
+Some codes are replaced by '***'.
+One of reasons is to train yourself.
 Try to fill the blanks if you want to improve your skills.
 '''
 
